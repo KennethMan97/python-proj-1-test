@@ -1,2 +1,2 @@
-def mult(a: int, b: int) -> str:
-    return a * b
+def mult(a: int, b: int):
+    print(a * b)
